@@ -9,5 +9,5 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodev89&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 <div>
-  ![Snake animation](https://github.com/thiagodev89/thiagodev89/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github.com/thiagodev89/thiagodev89/blob/output/github-contribution-grid-snake.svg"/>
 </div>
