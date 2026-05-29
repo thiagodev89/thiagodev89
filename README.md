@@ -1,7 +1,7 @@
 ## Olá, Seja bem-vindo ao meu perfil!
 
-- 🔭 Trabalhando com Fullstack.
-- 🌱 Estudando PHP, JavaScript e Python.
+- 🔭 Trabalhando como Desenvolvedor Fullstack.
+- 🌱 Aprimorando conhecimentos nas linguagens PHP, Vue, JavaScript.
 
 <div>
   <a href="https://github.com/thiagodev89">
