@@ -4,7 +4,6 @@
 - 🌱 Aprimorando conhecimentos nas linguagens PHP, Vue, JavaScript.
 
 <div>
-  <a href="https://github.com/thiagodev89">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodev89&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 </div>
 <div style="display: inline_block" align="center"><br>
